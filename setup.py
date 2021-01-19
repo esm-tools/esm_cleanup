@@ -51,6 +51,6 @@ setup(
     test_suite='tests',
     tests_require=test_requirements,
     url='https://gitlab.awi.de/dbarbi/esm_cleanup',
-    version="0.0.1",
+    version="0.1.0",
     zip_safe=False,
 )
