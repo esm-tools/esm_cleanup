@@ -74,7 +74,7 @@ A second way of calling esm_cleanup is by giving the experiment folder as a comm
 
         esm_cleanup -f my_experiments/exp2
 
-And last but not least, if you are in the folder containg your runscript, and you only remember the experiment id, then you can also 
+And last but not least, if you are in the folder containing your runscript, and you only remember the experiment id, then you can also 
 launch esm_cleanup like this::
 
         esm_cleanup -r my_runscript.yaml -e experiment_id
